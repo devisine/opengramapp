@@ -1,2 +1,1 @@
-# opengramapp
-opengram source code
+# elegram
